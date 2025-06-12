@@ -1,0 +1,2459 @@
+{
+    "chunks": [
+        {
+            "name": "Chunk_0.0_0.0_0.0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "voxels": [
+                {
+                    "position": [
+                        -2,
+                        4,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        -3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        2,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        -3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        5,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        5,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        5,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        5,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        7,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        7,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        7,
+                        0
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        7,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        7,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        7,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        7,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        7,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        7,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        7,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        7,
+                        1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        7,
+                        1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        7,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        7,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        7,
+                        -2
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        7,
+                        -2
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        7,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        6,
+                        1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        6,
+                        0
+                    ],
+                    "base_color": [
+                        0.23155410587787628,
+                        0.15313740074634552,
+                        0.18604491651058197,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        6,
+                        1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        6,
+                        0
+                    ],
+                    "base_color": [
+                        0.23155410587787628,
+                        0.15313740074634552,
+                        0.18604491651058197,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        6,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        6,
+                        -1
+                    ],
+                    "base_color": [
+                        0.23155410587787628,
+                        0.15313740074634552,
+                        0.18604491651058197,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        6,
+                        -2
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        2,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        4,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        3,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        6,
+                        -1
+                    ],
+                    "base_color": [
+                        0.23155410587787628,
+                        0.15313740074634552,
+                        0.18604491651058197,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        4,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        4,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        6,
+                        -2
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        4,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        6,
+                        0
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        5,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        4,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        3,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        2,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        3,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        2,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        3,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        2,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        3,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        2,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        -1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        2,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        2,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        2,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        2,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        5,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        4,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        4,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        3,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        5,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        4,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        5,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        4,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        3,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        3,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        5,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        4,
+                        0
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        5,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        5,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        4,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        4,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        3,
+                        0
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        2,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        5,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        4,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -4,
+                        2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        3,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        5,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        4,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        5,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        4,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        5,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        4,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        5,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        4,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        5,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        4,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        5,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        4,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        5,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        4,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        5,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        4,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        2,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        2,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        2,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        2,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -3,
+                        1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        -2,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        -1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        -2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -2,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -2,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        -2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        7,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        7,
+                        1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        5,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        3,
+                        0
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        5,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        4,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        3,
+                        -1
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        4,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        3,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        2,
+                        3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        1,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        1,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        1,
+                        3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        1,
+                        3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        0,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        0,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        0,
+                        2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        -1,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        -1,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        1,
+                        2,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        0,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        0,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -1,
+                        0,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        0,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        0,
+                        -3
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        -2,
+                        0,
+                        -2
+                    ],
+                    "base_color": [
+                        1.0,
+                        0.809826672077179,
+                        0.8944742679595947,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        6,
+                        -1
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                },
+                {
+                    "position": [
+                        0,
+                        6,
+                        0
+                    ],
+                    "base_color": [
+                        0.4812006950378418,
+                        0.39132773876190186,
+                        0.43132925033569336,
+                        1.0
+                    ],
+                    "block_name": "untextured",
+                    "solid": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "leather_no_color",
+        "Bottom": "leather_no_color",
+        "Left": "leather_no_color",
+        "Right": "leather_no_color",
+        "Front": "leather_no_color",
+        "Back": "leather_no_color"
+    }
+}

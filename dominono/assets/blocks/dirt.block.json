@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "dirt",
+        "Bottom": "dirt",
+        "Left": "dirt",
+        "Right": "dirt",
+        "Front": "dirt",
+        "Back": "dirt"
+    }
+}

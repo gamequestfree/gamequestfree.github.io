@@ -1,0 +1,208 @@
+{
+    "chunks": [
+        {
+            "name": "Head",
+            "frames": [
+                {
+                    "time": 0.0,
+                    "duration": 5000,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 5.0,
+                    "duration": 5000,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 10.0,
+                    "duration": 5000,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 15.0,
+                    "duration": 5000,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                }
+            ]
+        },
+        {
+            "name": "Torso",
+            "frames": [
+                {
+                    "time": 0.0,
+                    "duration": 0,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.12467473, 0.0, 0.9921977]
+                },
+                {
+                    "time": 0.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.12467473, 0.0, 0.9921977]
+                },
+                {
+                    "time": 1.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 1.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, -0.12467473, 0.0, 0.9921977]
+                },
+                {
+                    "time": 2.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                }
+            ]
+        },
+        {
+            "name": "Arm_L",
+            "frames": [
+                {
+                    "time": 0.0,
+                    "duration": 0,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 0.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 1.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 1.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [-0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 2.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                }
+            ]
+        },
+        {
+            "name": "Arm_R",
+            "frames": [
+                {
+                    "time": 0.0,
+                    "duration": 0,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [-0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 0.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [-0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 1.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 1.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 2.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                }
+            ]
+        },
+        {
+            "name": "Leg_L",
+            "frames": [
+                {
+                    "time": 0.0,
+                    "duration": 0,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [-0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 0.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [-0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 1.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 1.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 2.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                }
+            ]
+        },
+        {
+            "name": "Leg_R",
+            "frames": [
+                {
+                    "time": 0.0,
+                    "duration": 0,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 0.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 1.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                },
+                {
+                    "time": 1.5,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [-0.24740396, 0.0, 0.0, 0.9689124]
+                },
+                {
+                    "time": 2.0,
+                    "duration": 500,
+                    "translation": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0, 1.0]
+                }
+            ]
+        }
+    ]
+}

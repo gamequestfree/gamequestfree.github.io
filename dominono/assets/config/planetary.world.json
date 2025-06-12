@@ -1,0 +1,16 @@
+{
+    "layers": [
+        {
+            "block_name": "stone",
+            "depth": 4
+        },
+        {
+            "block_name": "dirt",
+            "depth": 1
+        },
+        {
+            "block_name": "grass",
+            "depth": 0
+        }
+    ]
+}

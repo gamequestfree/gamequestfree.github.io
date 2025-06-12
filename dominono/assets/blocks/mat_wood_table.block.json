@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "table_wood_bright",
+        "Bottom": "TableWoodShadow",
+        "Left": "TableWoodShadow",
+        "Right": "TableWoodShadow",
+        "Front": "TableWoodShadow",
+        "Back": "TableWoodShadow"
+    }
+}

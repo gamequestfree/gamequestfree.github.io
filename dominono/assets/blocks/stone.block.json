@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "stone",
+        "Bottom": "stone",
+        "Left": "stone",
+        "Right": "stone",
+        "Front": "stone",
+        "Back": "stone"
+    }
+}

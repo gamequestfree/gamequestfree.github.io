@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "untextured",
+        "Bottom": "untextured",
+        "Left": "untextured",
+        "Right": "untextured",
+        "Front": "untextured",
+        "Back": "untextured"
+    }
+}

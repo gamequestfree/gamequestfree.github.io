@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<title>Domino</title>
+<style>
+    body {
+        margin: 0;
+        overflow: hidden;
+    }
+    canvas {
+        width: 100vw;
+        height: 100vh;
+        display: block;
+    }
+</style>
+
+<body style="margin: 0px;">
+    <canvas id="canvas"></canvas>
+
+    <script type="module">
+        
+        import init from './planetary-motion-voxel-3d.js';
+
+        init().catch((error) => {
+            if (!error.message.startsWith("Using exceptions for control flow, don't mind me. This isn't actually an error!")) {
+                throw error;
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "book_pages_horizontal",
+        "Bottom": "book_pages_horizontal",
+        "Left": "book_pages_horizontal",
+        "Right": "book_pages_horizontal",
+        "Front": "book_pages_horizontal",
+        "Back": "book_pages_horizontal"
+    }
+}

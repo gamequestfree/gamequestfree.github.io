@@ -1,0 +1,21 @@
+{
+    "player_frames": [
+        {
+            "time": 0.0,
+            "duration": 0.0,
+            "translation": [375.0, 256.0, -100.0],
+            "rotation": [0, 0.0, 0.0, 1.0]
+        }
+    ],
+    "structures": [
+        {
+            "time": 0.0,
+            "structure_name": "Table",
+            "translation": [-0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [16.0, 16.0, 16.0]
+        }
+    ],
+    "creatures": [
+    ]
+}

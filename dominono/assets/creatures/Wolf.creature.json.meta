@@ -1,0 +1,12 @@
+(
+    meta_format_version: "1.0",
+    processed_info: Some((
+        hash: (38, 3, 58, 148, 188, 228, 223, 31, 86, 220, 17, 215, 221, 29, 54, 37, 196, 119, 102, 124, 198, 182, 91, 112, 29, 238, 13, 148, 6, 1, 49, 242),
+        full_hash: (38, 3, 58, 148, 188, 228, 223, 31, 86, 220, 17, 215, 221, 29, 54, 37, 196, 119, 102, 124, 198, 182, 91, 112, 29, 238, 13, 148, 6, 1, 49, 242),
+        process_dependencies: [],
+    )),
+    asset: Load(
+        loader: "planetary_motion_voxel_3d::load::json::JsonAssetLoader<planetary_motion_voxel_3d::load::creature::CreatureData>",
+        settings: (),
+    ),
+)

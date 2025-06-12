@@ -1,0 +1,116 @@
+{
+    "player_frames": [
+        {
+            "time": 0.0,
+            "duration": 15.0,
+            "translation": [0.0, 256.0, 128.0],
+            "rotation": [-0.500, 0.0, 0.0, 0.866]
+        }
+    ],
+    "structures": [
+        {
+            "time": 0.0,
+            "structure_name": "basement",
+            "translation": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [16.0, 16.0, 16.0]
+        },
+        {
+            "time": 0.0,
+            "structure_name": "barrel",
+            "translation": [-48.0, 87.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [1, 1, 1]
+        }
+    ],
+    "creatures": [
+        {
+            "time": 0.0,
+            "creature_name": "barrel",
+            "translation": [-48.0, 87.0, 72.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [1, 1, 1],
+            "vitals": {}
+        },
+        {
+            "time": 0.0,
+            "creature_name": "human",
+            "translation": [-16.0, 112.0, 72.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [1, 1, 1],
+            "vitals": {
+                "Head": {
+                    "damage_threshold": 0.05
+                },
+                "Torso": {
+                    "damage_threshold": 0.25
+                }
+            },
+            "animation_name": "walk"
+        },
+        {
+            "time": 0.0,
+            "creature_name": "rat",
+            "translation": [0.0, 112.0, 72.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [1, 1, 1],
+            "vitals": {
+                "Head": {
+                    "damage_threshold": 0.01
+                },
+                "Torso": {
+                    "damage_threshold": 0.01
+                }
+            },
+            "animation_name": "walk"
+        },
+        {
+            "time": 20.0,
+            "creature_name": "rat",
+            "translation": [96.0, 112.0, 72.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [1, 1, 1],
+            "vitals": {
+                "Head": {
+                    "damage_threshold": 0.01
+                },
+                "Torso": {
+                    "damage_threshold": 0.01
+                }
+            },
+            "animation_name": "walk"
+        },
+        {
+            "time": 40.0,
+            "creature_name": "rat",
+            "translation": [96.0, 112.0, -8.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [2, 2, 2],
+            "vitals": {
+                "Head": {
+                    "damage_threshold": 0.01
+                },
+                "Torso": {
+                    "damage_threshold": 0.01
+                }
+            },
+            "animation_name": "walk"
+        },
+        {
+            "time": 75.0,
+            "creature_name": "rat",
+            "translation": [0.0, 112.0, -8.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0],
+            "scale": [4, 4, 4],
+            "vitals": {
+                "Head": {
+                    "damage_threshold": 0.01
+                },
+                "Torso": {
+                    "damage_threshold": 0.01
+                }
+            },
+            "animation_name": "walk"
+        }
+    ]
+}

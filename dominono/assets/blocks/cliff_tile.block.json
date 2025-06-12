@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "cliff_tile",
+        "Bottom": "cliff_tile",
+        "Left": "cliff_tile",
+        "Right": "cliff_tile",
+        "Front": "cliff_tile",
+        "Back": "cliff_tile"
+    }
+}

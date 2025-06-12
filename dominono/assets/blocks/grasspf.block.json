@@ -1,0 +1,10 @@
+{
+    "block_face_texture_names": {
+        "Top": "grasspf",
+        "Bottom": "cliff",
+        "Left": "cliff",
+        "Right": "cliff",
+        "Front": "cliff",
+        "Back": "cliff"
+    }
+}
