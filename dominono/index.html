@@ -25,6 +25,23 @@
                 throw error;
             }
         });
+		document.addEventListener('click', unlockAudio, { once: true });
+document.addEventListener('touchstart', unlockAudio, { once: true });
+
+function unlockAudio() {
+    if (typeof lAudioContext !== 'undefined') {
+        try {
+            const context = new lAudioContext();
+            if (context.state === 'suspended') {
+                context.resume().then(() => {
+                    console.log("AudioContext resumed.");
+                });
+            }
+        } catch (e) {
+            console.warn("AudioContext unlock failed:", e);
+        }
+    }
+}
     </script>
 </body>
 
