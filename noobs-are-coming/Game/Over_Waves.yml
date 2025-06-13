@@ -1,0 +1,768 @@
+_Rules:
+    _Ruleset: Waves
+    ZoneName: OVERMOBS
+
+"Looter":
+    A:
+        Type: Noob_Looter
+        Count: 1
+        Wait: 25
+        Every: 15
+        Chance: 0.1
+
+# 0:
+#     _Duration: 23
+#     A:
+#         Wait: 1
+#         Type: Noob_Frog
+#         Count: 20
+#         Every: 2
+
+1:
+    _Duration: 23
+    A:
+        Wait: 5
+        Type: Noob_1
+        Count: 4-5
+        Every: 3
+
+2:
+    _Duration: 25
+    A:
+        Type: Noob_Couette
+        Count: 3-4
+        Every: 4
+    B:
+        Type: Noob_1
+        Count: 4-5
+        Wait: 5.5
+        Every: 5
+        SpawnEdge: true
+3:
+    _Duration: 30
+    A:
+        Type: Noob_1
+        Count: 5-6
+        Every: 3
+        SpawnEdge: true
+    B:
+        Type: Noob_2
+        Count: 3-4
+        Wait: 10
+        Every: [7, -1, 3]
+        Area: 200
+    Diff|2:
+        Type: Noob_Dasher
+        Count: 1
+        Wait: 15
+        Every: 3
+        Repeat: -1
+        Area: 100
+    Diff|3:
+        Type: Noob_Archer
+        Count: 1
+        Wait: 10
+        Every: 3
+        Repeat: -1
+        Area: 100
+    Diff|5:
+        Type: Noob_Dasher
+        Count: 1
+        Wait: 10
+        Every: 5
+4:
+    _Duration: 35
+    A:
+        Type: Noob_Rogue
+        Count: 2
+        Every: 5
+    B:
+        Type: Noob_1
+        Count: 6-7
+        Wait: 4
+        Every: 3
+        Area: 300
+    C:
+        Type: Noob_Mage
+        Count: 2
+        Wait: 25
+        Every: 7
+
+    Diff|2:
+        Type: Noob_Archer
+        Count: 2
+        Wait: 15
+        Every: 3
+        Repeat: -1
+    Diff|5:
+        Type: Noob_Frog
+        Count: 1
+        Wait: 3
+        Every: [5, -1, 3]
+5:
+    _Duration: 40
+    A:
+        Type: Noob_1
+        Count: 8
+        Every: 4
+        SpawnEdge: true
+    B:
+        Type: Noob_2
+        Count: 3-4
+        Wait: 3
+        Every: [5, -1, 2]
+        Area: 200
+    C:
+        Type: Noob_Mage
+        Count: 1-2
+        Wait: 25
+        Every: 6
+        Area: 200
+    D:
+        Type: Noob_Chevalier
+        Count: 1
+        Wait: 32
+        Every: 20
+    Diff|2:
+        Type: Noob_Dasher
+        Count: 2
+        Wait: 15
+        Every: 4
+        SpawnEdge: true
+    Diff|3:
+        Type: Noob_2
+        Count: 1-2
+        Wait: 7
+        Every: 8
+        Area: 200
+    Diff|4:
+        Type: Elite_Dasher
+        Count: 1
+        Wait: 15
+        Every: 15
+6:
+    _Duration: 45
+    A:
+        Type: Noob_Dasher
+        Count: 4-5
+        Every: [5, -1, 3]
+        SpawnEdge: true
+    B:
+        Type: Noob_2
+        Count: 3-4
+        Wait: 3
+        Every: [3, -1, 2]
+        Area: 200
+    C:
+        Type: Noob_1
+        Count: 5-6
+        Wait: 20
+        Every: [5, -1, 2]
+        Area: 200
+    Diff|2:
+        Type: Noob_Archer
+        Count: 1-2
+        Wait: 15
+        Every: 5
+        SpawnEdge: true
+    Diff|5:
+        Type: Elite_Dasher
+        Count: 1
+        Wait: 20
+        Every: 8
+        SpawnEdge: true
+7:
+    _Duration: 50
+    A:
+        Type: Noob_1
+        Count: 6-7
+        Every: 2
+        SpawnEdge: true
+    B:
+        Type: Noob_Dasher
+        Count: 4-5
+        Wait: 10
+        Every: 6
+        Area: 200
+    C:
+        Type: Noob_Mage
+        Count: 2-3
+        Wait: 30
+        Every: 5
+        Area: 200
+    Diff|2:
+        Type: Noob_Rogue
+        Count: 2
+        Every: 15
+    Diff|5:
+        Type: Noob_Crystal
+        Count: 1-2
+        Wait: 3
+        Every: 10
+8:
+    _Duration: 55
+    A:
+        Type: Noob_Couette
+        Count: 3-4
+        Every: 4
+    B:
+        Type: Noob_Chevalier
+        Count: 3
+        Every: [8, -1, 6]
+    C:
+        Type: Noob_Mage
+        Count: 1-2
+        Wait: 2
+        Every: [3, -1, 2]
+
+    D:
+        Type: Noob_1
+        Count: 3
+        Wait: 5
+        Every: [6, -1, 1]
+        Area: 300
+    Diff|2:
+        Type: Elite_Chevalier
+        Count: 1
+        Wait: 30
+        Every: 3
+        Repeat: -1
+    Diff|4:
+        Type: Elite_Chevalier
+        Count: 1
+        Wait: 15
+        Every: 8
+9:
+    _Duration: 60
+    A:
+        Type: Noob_2
+        Count: 6-7
+        Every: [2, -1, 1]
+        Area: 400
+    B:
+        Type: Noob_Dasher
+        Count: 2-3
+        Wait: 10
+        Every: 3
+    C:
+        Type: Noob_Chevalier
+        Count: 2-3
+        Wait: 22
+        Every: 8
+        SpawnEdge: true
+    Diff|2:
+        Type: Noob_2
+        Count: 2-3
+        Wait: 3
+        Every: 5
+        Area: 200
+    Diff|4:
+        Type: Noob_2
+        Count: 3-4
+        Wait: 3
+        Every: 5
+        Area: 200
+10:
+    _Duration: 60
+    A:
+        Type: Noob_1
+        Count: 8-9
+        Every: 2
+        SpawnEdge: true
+    B:
+        Type: Noob_Chevalier
+        Count: 2-3
+        Wait: 5
+        Every: [8, -1, 5]
+    C:
+        Type: Noob_Dasher
+        Count: 2
+        Wait: 20
+        Every: [5, -1, 2]
+        Area: 200
+    D:
+        Type: Noob_2
+        Count: 4-5
+        Wait: 30
+        Every: [3, -1, 2]
+    Diff|2:
+        Type: Noob_Frog
+        Count: 1-2
+        Wait: 20
+        Every: 12
+        SpawnEdge: true
+    Diff|3:
+        Type: Noob_2
+        Count: 2
+        Wait: 30
+        Every: [3, -1, 2]
+11:
+    _Duration: 60
+    A:
+        Type: Noob_Archer
+        Count: 2-3
+        Every: 5
+    B:
+        Type: Noob_1
+        Count: 3-4
+        Wait: 3
+        Every: [6, -1, 1]
+        Area: 400
+    C:
+        Type: Noob_Dasher
+        Count: 3
+        Wait: 5
+        Every: 3
+    D:
+        Type: Noob_Mage
+        Count: 2-3
+        Wait: 25
+        Every: 3
+        SpawnEdge: true
+    Diff|2:
+        Type: Noob_Archer
+        Count: 3-4
+        Wait: 12
+        Every: 10
+    Diff|5:
+        Type: Noob_Rogue
+        Count: 1
+        Wait: 3
+        Every: 10
+12:
+    _Duration: 60
+    A:
+        Type: Noob_2
+        Count: 10
+        Every: 2
+        Repeat: 10
+        SpawnEdge: true
+    B:
+        Type: Noob_Rogue
+        Count: 1
+        Wait: 5
+        Every: 5
+        SpawnEdge_Dist: 250
+    C:
+        Type: Noob_Chevalier
+        Count: 2
+        Wait: 15
+        Every: 5
+    D:
+        Type: Noob_Dasher
+        Count: 2-3
+        Wait: 25
+        Every: [3, -1, 1]
+        Area: 300
+    E:
+        Type: Noob_1
+        Count: 3-4
+        Wait: 25
+        Every: [3, -1, 1]
+        SpawnEdge: true
+    Diff|2:
+        Type: Noob_Bomb
+        Count: 1
+        Wait: 3
+        Every: 10
+    Diff|3:
+        Type: Noob_1
+        Count: 2-3
+        Wait: 15
+        Every: 8
+13:
+    _Duration: 60
+    A:
+        Type: Noob_Frog
+        Count: 1
+        Every: [5, -1, 2]
+    B:
+        Type: Noob_Mage
+        Count: 2-3
+        Wait: 3
+        Every: [8, -1, 4]
+    C:
+        Type: Noob_1
+        Count: 7
+        Wait: 8
+        Every: 5
+        SpawnEdge: true
+    E:
+        Type: Noob_Rogue
+        Count: 4
+        Wait: 9
+        Every: [8, -1, 4]
+    F:
+        Type: Noob_Chevalier
+        Count: 1-2
+        Wait: 30
+        Every: [5, -1, 4]
+        SpawnEdge: true
+        Adds:
+            "1":
+                Type: Elite_Chevalier
+                Count: 1
+    Diff|2:
+        Type: Noob_Archer
+        Count: 3-4
+        Wait: 8
+        Every: 5
+        Area: 300
+    Diff|4:
+        Type: Noob_Druid
+        Count: 1
+        Wait: 8
+        Every: 8
+14:
+    _Duration: 60
+    A:
+        Type: Noob_Rogue
+        Count: 4
+        Every: [8, -1, 4]
+    B:
+        Type: Noob_Frog
+        Count: 2
+        Wait: 2
+        Every: [5, -1, 3]
+    C:
+        Type: Noob_1
+        Count: 6
+        Wait: 12
+        Every: [5, -1, 2]
+        SpawnEdge: true
+    D:
+        Type: Noob_Rogue
+        Count: 4
+        Wait: 20
+        Every: [9, -1, 4]
+    E:
+        Type: Elite_Chevalier
+        Count: 2
+        Wait: 30
+        Every: [10, -1, 4]
+    F:
+        Type: Noob_Mage
+        Count: 1-2
+        Wait: 22
+        Every: 6
+        Area: 200
+    Diff|2:
+        Type: Noob_Bomb
+        Count: 1
+        Wait: 5
+        Every: 8
+    Diff|4:
+        Type: Noob_Nymph
+        Count: 1-2
+        Wait: 8
+        Every: 8
+15:
+    _Duration: 60
+    A:
+        Type: Noob_1
+        Count: 8
+        Every: [5, -1, 3]
+        Area: 500
+        Adds:
+            "1":
+                Type: Noob_Nymph
+                Count: 1-2
+    B:
+        Type: Noob_Frog
+        Count: 1
+        Wait: 2
+        Every: 5
+    C:
+        Type: Noob_Mage
+        Count: 2
+        Wait: 8
+        Every: 5
+        Area: 300
+    D:
+        Type: Noob_2
+        Count: 3
+        Wait: 12
+        Every: [5, -1, 2]
+        SpawnEdge: true
+    E:
+        Type: Elite_Chevalier
+        Count: 1
+        Wait: 20
+        Every: 7
+    F:
+        Type: Noob_Rogue
+        Count: 3
+        Wait: 25
+        Every: [7, -1, 5]
+    G:
+        Type: Elite_Dasher
+        Count: 1
+        Wait: 35
+        Every: 10
+    Diff|2:
+        Type: Noob_Druid
+        Count: 1
+        Wait: 10
+        Every: 15
+    Diff|4:
+        Type: Noob_Crystal
+        Count: 1
+        Wait: 5
+        Every: 12
+        SpawnEdge_Dist: 300
+16:
+    _Duration: 60
+    A:
+        Type: Noob_Buffer
+        Count: 2
+        Every: 4
+        Area: 500
+        Adds:
+            "1":
+                Type: Noob_Frog
+                Count: 1
+    B:
+        Type: Noob_1
+        Count: 5
+        Wait: 5
+        Every: [5, -1, 4]
+        SpawnEdge: true
+    C:
+        Type: Noob_3
+        Count: 3
+        Wait: 20
+        Every: [3, -1, 1]
+        Area: 450
+    D:
+        Type: Elite_Chevalier
+        Count: 1
+        Wait: 32
+        Every: 5
+        Area: 450
+        Adds:
+            "1":
+                Type: Noob_Chevalier
+                Count: 1
+    E:
+        Type: Elite_BooRogue
+        Count: 1
+        Wait: 20
+        Every: 9
+
+    Diff|2:
+        Type: Noob_Bomb
+        Count: 1
+        Wait: 20
+        Every: 6
+    Diff|3:
+        Type: Noob_Frog
+        Count: 1
+        Wait: 3
+        Every: 7
+        SpawnEdge: true
+17:
+    _Duration: 60
+    A:
+        Type: Noob_Rogue
+        Count: 3-4
+        Every: 3
+    B:
+        Type: Noob_Buffer
+        Count: 1
+        Wait: 4
+        Every: 10
+        Area: 300
+        Adds:
+            "1":
+                Type: Noob_Rogue
+                Count: 1-2
+    C:
+        Type: Noob_Nymph
+        Count: 1-2
+        Wait: 7
+        Every: 8
+        SpawnEdge: true
+    D:
+        Type: Noob_3
+        Count: 4-5
+        Wait: 30
+        Every: [5, -1, 1]
+        Area: 300
+    Diff|2:
+        Type: Noob_Druid
+        Count: 1
+        Wait: 15
+        Every: 5
+    3b:
+        Type: Noob_Frog
+        Count: 2
+        Wait: 15
+        Every: [5, -1, 3]
+    E:
+        Type: Noob_1
+        Count: 4
+        Wait: 40
+        Every: [5, -1, 3]
+        SpawnEdge: true
+18:
+    _Duration: 60
+    A:
+        Type: Noob_Dasher
+        Count: 3
+        Every: [3, -1, 2]
+        Repeat: 10
+        Adds:
+            "1":
+                Type: Noob_Buffer
+                Count: 1
+    B:
+        Type: Noob_Frog
+        Count: 2
+        Wait: 4
+        Every: [10, -1, 3]
+        SpawnEdge: true
+    C:
+        Type: Noob_2
+        Count: 4
+        Wait: 10
+        Every: 5
+    D:
+        Type: Noob_Mage
+        Count: 2
+        Wait: 20
+        Every: 3
+    E:
+        Type: Noob_Nymph
+        Count: 2
+        Wait: 24
+        Every: 3
+        SpawnEdge: true
+    F:
+        Type: Noob_Archer
+        Count: 2-3
+        Wait: 30
+        Every: [3, -1, 1]
+    Diff|2:
+        Type: Noob_Bomb
+        Count: 1-2
+        Every: 3
+        Repeat: 5
+    7:
+        Type: Elite_Dasher
+        Count: 1
+        Every: 5
+        SpawnEdge: true
+    Diff|4:
+        Type: Noob_Crystal
+        Count: 2-3
+        Wait: 40
+        Every: 5
+        Repeat: 99
+19:
+    _Duration: 60
+    A:
+        Type: Noob_1
+        Count: 6
+        Every: 1
+        SpawnEdge: true
+    B:
+        Type: Noob_Frog
+        Count: 1
+        Wait: 4
+        Every: 1
+    C:
+        Type: Noob_Buffer
+        Count: 1
+        Wait: 10
+        Every: 3
+    D:
+        Type: Elite_Chevalier
+        Count: 2
+        Wait: 15
+        Every: [5, -1, 4]
+    E:
+        Type: Noob_Rogue
+        Count: 1
+        Wait: 25
+        Every: 5
+        Area: 200
+    F:
+        Type: Noob_Archer
+        Count: 2
+        Wait: 32
+        Every: [5, -1, 1]
+        SpawnEdge: true
+    Diff|2:
+        Type: Noob_Bomb
+        Count: 1
+        Wait: 5
+        Every: 8
+        SpawnEdge_Dist: 100
+        SpawnEdge: true
+        Adds:
+            "1":
+                Type: Noob_Druid
+                Count: 2-3
+    7:
+        Type: Elite_Dasher
+        Count: 3
+        Wait: 30
+        Every: 5
+    Diff|3:
+        Type: Noob_3
+        Count: 4-5
+        Wait: 8
+        Every: 8
+        SpawnEdge_Dist: 100
+        SpawnEdge: true
+20:
+    _Duration: 60
+    A:
+        Type: Noob_Archer
+        Count: 2-3
+        Every: 20
+        SpawnEdge: true
+    B:
+        Type: Noob_1
+        Count: 5
+        Every: 3
+        SpawnEdge: true
+    C:
+        Type: Noob_Frog
+        Count: 3
+        Wait: 10
+        Every: 5
+        SpawnEdge: true
+    D:
+        Type: Noob_Rogue
+        Count: 3
+        Wait: 15
+        Every: 3
+        SpawnEdge: true
+    E:
+        Type: Noob_3
+        Count: 5
+        Wait: 20
+        Every: 3
+        SpawnEdge: true
+    E2:
+        Type: Elite_Chevalier
+        Count: 1
+        Wait: 20
+        Every: 6
+    F:
+        Type: Noob_Nymph
+        Count: 1
+        Wait: 30
+        Every: [6, -1, 4]
+        SpawnEdge: true
+        Adds:
+            "A":
+                Type: Noob_Buffer
+                Count: 1
+            "B":
+                Type: Noob_Rogue
+                Count: 1
+            "C":
+                Type: Elite_Chevalier
+                Count: 1

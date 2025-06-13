@@ -1,0 +1,393 @@
+_Rules:
+    Prefix: U_Syn_
+    ItemType: Synergy
+    Img: "random_icon.png"
+
+#Heavy
+#Rogue
+#Mage
+#Necromancer
+#Harvester
+
+#Ball
+
+#Plant
+#Void
+#Lightning
+#Fire
+#Water
+#Ice
+
+#Guns
+#Blades
+#Blunt
+#Heavy
+#Insectoid
+#Demoniac
+
+#MELEE/RANGED/MINIONS/POWERS
+
+Melee_3:
+    Effects:
+        Type_Mod|Melee|Damage: 15
+
+Ranged_3:
+    Effects:
+        Type_Mod|Ranged|Damage: 15
+
+Minion_3:
+    Effects:
+        Type_Mod|Minion|Damage: 20
+
+Upgradable_3:
+    Effects:
+        Stat|HP_Max: -3
+
+Skill_3:
+    Effects:
+        Type_Mod|Skill|Damage: 15
+
+#MINING
+
+Mining_2:
+    Effects:
+        Stat|Armor: 3
+
+Mining_3:
+    Effects:
+        Stat|Knockback: 3
+
+#Golden
+
+Golden_3:
+    Effects:
+        Stat|Soul_Golden: 1
+
+#Love
+
+Love_3:
+    Effects:
+        Stat|HP_Max: 5
+
+#Toxic
+
+Toxic_2:
+    Effects:
+        Stat|Duration: 10
+
+Toxic_3:
+    Effects:
+        Stat|Crit_Chance: 6
+
+#Explosive
+
+Explosive_2:
+    Effects:
+        Stat|Size: 10
+
+Explosive_3:
+    Effects:
+        Type_Mod|Explosive|Damage: 10
+
+#TRAP
+
+Trap_2:
+    Effects:
+        Stat|Crit_Chance: 5
+
+Trap_3:
+    Effects:
+        Stat|Size: 8
+
+#Vampire
+
+Vampire_3:
+    Effects:
+        Stat|Life_Steal: 10
+
+#MARTIAL ARTS
+
+Martial_2:
+    Effects:
+        Stat|Speed: 10
+
+Martial_3:
+    Effects:
+        Stat|Crit_Chance: 7
+
+Martial_4:
+    Effects:
+        Stat|Damage_Strength: 5
+
+#BOW
+
+Bow_3:
+    Effects:
+        Stat|Amount: 3
+
+#THROWABLE
+
+Throwable_2:
+    Effects:
+        Stat|Damage_Strength: 2
+
+Throwable_3:
+    Effects:
+        Stat|Bullet_Pierce: 1
+
+Throwable_4:
+    Effects:
+        Stat|Bullet_BounceWall: 1
+
+#PROTECTION
+
+Protection_2:
+    Effects:
+        Stat|Armor: 10
+
+Protection_3:
+    Effects:
+        Stat|HP_Max: 3
+
+Protection_4:
+    Effects:
+        Stat|Armor: 10
+
+#TURRET
+
+Turret_2:
+    Effects:
+        Type_Mod|Turret|Cooldown: -10
+
+Turret_3:
+    Effects:
+        Kickable_Turrets: true
+
+Turret_5:
+    Effects:
+        Type_Mod|Turret|Damage: 25
+
+#LINK
+
+Link_2:
+    Effects:
+        Type_Mod|Link|Damage: 10
+
+Link_3:
+    Effects:
+        Stat|Dodge: 3
+
+#INSECTOID
+
+Insectoid_2:
+    Effects:
+        Stat|Crit_Chance: 5
+
+Insectoid_3:
+    Effects:
+        Stat|Amount: 2
+
+#CUTE
+
+Cute_2:
+    Effects:
+        Stat|HP_Max: 2
+
+Cute_3:
+    Effects:
+        Stat|Enemy_Count: 3
+
+#NECROMANCER
+
+Necromancer_2:
+    Effects:
+        Stat|Pickup_Range: 10
+Necromancer_3:
+    Effects:
+        Stat|SoulPortal: 10
+
+#WIZARD
+
+Wizard_2:
+    Effects:
+        Stat|Potion_Heal: 1
+Wizard_3:
+    Effects:
+        Stat|Damage_Arcane: 1
+Wizard_4:
+    Effects:
+        Stat|XP_Gain: 5
+
+#FISH
+
+Fish_2:
+    Effects:
+        Stat|Harvest: 3
+
+Fish_3:
+    Effects:
+        Stat|Harvest: 3
+
+#EARTH
+
+Earth_2:
+    Effects:
+        Stat|HP_Max: 2
+
+Earth_4:
+    Effects:
+        Stat|HP_Max: 5
+
+#LIGHTNING
+
+Lightning_2:
+    Effects:
+        Stat|Damage_Elem: 1
+
+#! TOFIX: Chaining
+# Lightning_3:
+#     Effects:
+#         Stat|Chaining: 1
+
+#SHAMAN
+
+Shaman_2:
+    Effects:
+        Stat|HP_Max: 2
+
+Shaman_4:
+    Effects:
+        Stat|Bullet_BounceEnemy: 1
+
+#ROGUE
+
+Rogue_2:
+    Effects:
+        Stat|Dodge: 2
+
+Rogue_3:
+    Effects:
+        Stat|Soul_AutoAttract: 10
+
+Rogue_4:
+    Effects:
+        Stat|Damage_Strength: 2
+
+#DISK
+
+Disk_2:
+    Effects:
+        Stat|Speed: 5
+
+Disk_3:
+    Effects:
+        Kickable_Disks: true
+
+Disk_4:
+    Effects:
+        Stat|Bullet_BounceWall: 1
+
+#BALL
+
+Ball_2:
+    Effects:
+        Stat|Speed: 10
+
+Ball_4:
+    Effects:
+        Stat|Speed: 10
+        #Skill_Ball_Control: true
+
+#PLANT
+
+Plant_2:
+    Effects:
+        Stat|Duration: 10
+
+Plant_3:
+    Effects:
+        Type_Mod|Plant|Duration: 10
+
+#VOID
+
+Void_2:
+    Effects:
+        Stat|SoulPortal: 10
+
+Void_3:
+    Effects:
+        Stat|Size: 10
+
+#FIRE
+
+Fire_2:
+    Effects:
+        Stat|Damage_Elem: 1
+
+Fire_3:
+    Effects:
+        Stat|Damage_Elem: 2
+
+Fire_5:
+    Effects:
+        DamageBonus_PercentStat|Damage_Elem: 50
+
+#HEAVY
+
+Heavy_2:
+    Effects:
+        Stat|Damage: 5
+
+Heavy_3:
+    Effects:
+        Type_Mod|Heavy|Damage: 10
+
+Heavy_4:
+    Effects:
+        Stat|Crit_Chance: 7
+
+#WATER
+
+Water_2:
+    Effects:
+        Stat|Knockback: 3
+
+Water_3:
+    Effects:
+        Stat|HP_Regen: 2
+
+Water_4:
+    Effects:
+        Stat|HP_Regen: 2
+
+#Guns
+
+Gun_2:
+    Effects:
+        Stat|Range: 10
+
+Gun_3:
+    Effects:
+        Stat|Cooldown: -3
+
+Gun_4:
+    Effects:
+        Stat|Range: 10
+
+Gun_5:
+    Effects:
+        Stat|Damage_Dex: 3
+
+#Spikes
+
+Spikes_3:
+    Effects:
+        Stat|Damage: 3
+
+Spikes_4:
+    Effects:
+        Stat|Duration: 5
+
+Spikes_5:
+    Effects:
+        Stat|Damage: 5

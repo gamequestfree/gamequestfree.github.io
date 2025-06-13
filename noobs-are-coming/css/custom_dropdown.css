@@ -1,0 +1,44 @@
+.customDropdownContainer {
+	display: inline-block;
+	position: relative;
+	border: calc(var(--px) * 1) solid hsl(0, 0%, 40%);
+	border-radius: 4px;
+	padding: calc(var(--px) * 2);
+
+	background-color: #343434;
+	color: rgb(255, 255, 255);
+	white-space: nowrap;
+}
+
+.customDropdownTrigger {
+	display: inline-block;
+}
+
+.arrowIcon {
+	float: right;
+}
+
+.customDropdownMenu {
+	position: absolute;
+	top: 100%; /* Position right below the dropdown */
+	right: 0;
+	/* Set width to auto to match content width */
+	width: auto;
+	outline: calc(var(--px) * 1) solid #ccc;
+	border-radius: calc(var(--px) * 1);
+	background-color: rgba(36, 36, 36, 0.95);
+	z-index: 1000; /* Ensure it appears above other elements */
+	white-space: nowrap; /* Prevent text from wrapping inside menu */
+}
+
+.customDropdownOption {
+	padding: calc(var(--px) * 2);
+
+	white-space: nowrap; /* Prevent text wrapping inside options */
+}
+
+.customDropdownOption:hover,
+.customDropdownOption:focus {
+	background-color: #007bff;
+	color: white;
+}

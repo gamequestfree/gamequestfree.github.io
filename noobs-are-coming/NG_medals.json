@@ -1,0 +1,112 @@
+[
+	{
+		"id": 84950,
+		"name": "Noob",
+		"steamID": "achieve_die_1"
+	},
+	{
+		"id": 84948,
+		"name": "Skull",
+		"steamID": "play_skull_1"
+	},
+	{
+		"id": 84956,
+		"name": "Summoner",
+		"steamID": "play_summoner_1"
+	},
+	{
+		"id": 84949,
+		"name": "Adept",
+		"steamID": "play_adept_1"
+	},
+	{
+		"id": 84954,
+		"name": "Arakna",
+		"steamID": "play_spider_1"
+	},
+	{
+		"id": 84953,
+		"name": "Boilix",
+		"steamID": "play_potion_1"
+	},
+	{
+		"id": 84952,
+		"name": "Grimorius",
+		"steamID": "play_book_1"
+	},
+	{
+		"id": 84951,
+		"name": "Bigfoot",
+		"steamID": "play_bigfoot_1"
+	},
+	{
+		"id": 84955,
+		"name": "Final Boss",
+		"steamID": "final_boss_1"
+	},
+	{
+		"id": 84957,
+		"name": "Amount (I)",
+		"steamID": "reachstat_amount_1"
+	},
+	{
+		"id": 84958,
+		"name": "Max HP (I)",
+		"steamID": "reachstat_hp_max_1"
+	},
+	{
+		"id": 84959,
+		"name": "Max HP (II)",
+		"steamID": "reachstat_hp_max_2"
+	},
+	{
+		"id": 84960,
+		"name": "Max HP (III)",
+		"steamID": "reachstat_hp_max_3"
+	},
+	{
+		"id": 84961,
+		"name": "Souls (I)",
+		"steamID": "reachstat_souls_1"
+	},
+	{
+		"id": 84962,
+		"name": "Souls (II)",
+		"steamID": "reachstat_souls_2"
+	},
+	{
+		"id": 84963,
+		"name": "Souls (III)",
+		"steamID": "reachstat_souls_3"
+	},
+	{
+		"id": 84964,
+		"name": "Size (I)",
+		"steamID": "reachstat_size_1"
+	},
+	{
+		"id": 84965,
+		"name": "Pickup Range (I)",
+		"steamID": "reachstat_pickup_range_1"
+	},
+	{
+		"id": 84966,
+		"name": "Level (I)",
+		"steamID": "reachstat_level_1"
+	},
+	{
+		"id": 84967,
+		"name": "Speed (I)",
+		"steamID": "reachstat_speed_1"
+	},
+	{
+		"id": 84968,
+		"name": "Items Price (I)",
+		"steamID": "reachstat_price_items_1"
+	},
+	{
+		"id": 84969,
+		"name": "Difficulty (I)",
+		"steamID": "difficulty_1"
+	}
+]
