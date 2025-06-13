@@ -1,0 +1,157 @@
+_Rules:
+    _Ruleset: Missions
+    Prefix: "U_"
+    Img: Game/Graph/[name].png
+    UnlockPrefix: [U_, U_Chara_]
+
+Final Boss 1:
+    Img: Icon_Mergoboy
+    Recheck: true
+    Missions:
+        AllCharas: true
+    Unlocks:
+        Item: Overboy
+
+Noob:
+    Img_AnimObject: Noob_1
+    Missions:
+        TotalValue|Deaths: 1
+    Unlocks:
+        Item: Trampling
+
+Difficulty 1:
+    Img: U_Diff_01
+    Tier: 1
+    Missions:
+        Win:
+            Diff: 1
+    Unlocks:
+        Item: Trap_Ballista
+        Diff: 2
+
+Difficulty 2:
+    LockedBy: Demo
+    Tier: 2
+    Img: U_Diff_02
+    Missions:
+        Win:
+            Diff: 2
+    Unlocks:
+        Item: ____
+        Diff: 3
+
+Difficulty 3:
+    LockedBy: Demo
+    Tier: 3
+    Img: U_Diff_03
+    Missions:
+        Win:
+            Diff: 3
+    Unlocks:
+        Item: ____
+        Diff: 4
+
+Difficulty 4:
+    LockedBy: Demo
+    Tier: 4
+    Img: U_Diff_04
+    Missions:
+        Win:
+            Diff: 4
+    Unlocks:
+        Item: ____
+        Diff: 5
+
+Difficulty 5:
+    LockedBy: Demo
+    Tier: 5
+    Img: U_Diff_05
+    Missions:
+        Win:
+            Diff: 5
+    Unlocks:
+        Item: ____
+
+ReachStat_Amount 1:
+    Img: Stat_Amount
+    Missions:
+        ReachStat|Amount: 10
+    Unlocks:
+        Item: Spiked Armor
+
+ReachStat_HP_Max 1:
+    Img: Stat_HP_Max
+    Missions:
+        ReachStat|HP_Max: 30
+    Unlocks:
+        Item: Negotiator
+
+ReachStat_HP_Max 2:
+    Img: Stat_HP_Max
+    Missions:
+        ReachStat|HP_Max: 50
+    Unlocks:
+        Item: Mystery Dice
+
+ReachStat_HP_Max 3:
+    Img: Stat_HP_Max
+    Missions:
+        ReachStat|HP_Max: 65
+    Unlocks:
+        Item: Pierced Apple
+
+ReachStat_Souls 1:
+    Img: Stat_Souls
+    Missions:
+        ReachStat|Souls: 200
+    Unlocks:
+        Item: Cheater
+
+ReachStat_Souls 2:
+    Img: Stat_Souls
+    Missions:
+        ReachStat|Souls: 400
+    Unlocks:
+        Item: Pierced Skull
+
+ReachStat_Souls 3:
+    Img: Stat_Souls
+    Missions:
+        ReachStat|Souls: 600
+    Unlocks:
+        Item: Doom Multiplier
+
+ReachStat_Size 1:
+    Img: Stat_Size
+    Missions:
+        ReachStat|Size: 50
+    Unlocks:
+        Item: Scared Shopkeeper
+
+ReachStat_Pickup_Range 1:
+    Img: Stat_Pickup_Range
+    Missions:
+        ReachStat|Pickup_Range: 50
+    Unlocks:
+        Item: Skull Planter
+
+ReachStat_Level 1:
+    Img: Stat_Level
+    Missions:
+        ReachStat|Level: 20
+    Unlocks:
+        Item: Magnet Blast
+
+ReachStat_Speed 1:
+    Img: Stat_Speed
+    Missions:
+        ReachStat|Speed: 75
+    Unlocks:
+        Item: Meditation
+
+ReachStat_Price_Items 1:
+    Img: U_Sale
+    Missions:
+        ReachStat|Price_Items: -30
+    Unlocks:
+        Item: Anvil

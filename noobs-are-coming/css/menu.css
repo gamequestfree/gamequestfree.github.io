@@ -1,0 +1,69 @@
+.menuBG {
+	background: radial-gradient(ellipse at bottom, rgb(6 21 22) 0%, rgb(0 0 0) 100%);
+}
+
+.menu .settingsMenu {
+	display: flex;
+	gap: var(--ems_1);
+
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
+
+.menu .column {
+	display: inline-flex; /* Make the column behave like an inline-block */
+	flex-direction: column;
+	gap: calc(var(--px) * 2);
+	align-items: flex-start; /* Prevents items from stretching across the column */
+}
+q .tooltip .settingSlider,
+.tooltip .settingItem {
+	font-size: calc(var(--px) * 5);
+}
+
+.settingSlider,
+.settingItem {
+	/*width: 100%;*/
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #000000;
+	border-radius: calc(var(--px) * 2);
+	/*padding-right: calc(var(--px) * 3);*/
+	/*padding-left: calc(var(--px) * 3);*/
+	font-size: calc(var(--px) * 7);
+
+	/*border: calc(var(--px) * 0.2) solid #ffffff30;*/
+}
+
+.menu .footerButtons {
+	width: 40%;
+	flex: 1;
+	justify-content: center;
+}
+
+.menu h2 {
+	font-size: calc(var(--px) * 10);
+	margin-bottom: calc(var(--px) * 1);
+}
+
+.menu label {
+	pointer-events: none;
+}
+
+.menu select {
+	padding: calc(var(--px) * 2);
+	background-color: #333;
+	color: white;
+	border: none;
+	border-radius: calc(var(--px) * 2);
+}
+
+#title_Column_Right {
+	display: none;
+}
+/*
+.menu input[type="range"] {
+	width: 150px;
+}*/

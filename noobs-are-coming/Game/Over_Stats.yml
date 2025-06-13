@@ -1,0 +1,95 @@
+_Rules:
+    _Ruleset: Stats
+    Prefix: U_STAT_
+    ItemType: Stat
+    Img: Game/Graph/Stat_[name].png
+    Evolutions: 3
+    Rarity: 0
+
+Pickup_Range:
+    Effects:
+        Stat|Pickup_Range: 10/15/20/30
+
+HP_Max:
+    Effects:
+        Stat|HP_Max: 2/3/4/5
+
+HP_Regen:
+    Effects:
+        Stat|HP_Regen: 2/3/4/5
+
+Life_Steal:
+    Effects:
+        Stat|Life_Steal: 1/2/3/4
+
+Armor:
+    Effects:
+        Stat|Armor: 3/4/5/7
+
+Dodge:
+    Effects:
+        Stat|Dodge: 3/5/7/10
+
+Damage:
+    Effects:
+        Stat|Damage: 4/7/10/13
+
+Damage_Strength:
+    Effects:
+        Stat|Damage_Strength: 2/3/4/5
+
+Damage_Dex:
+    Effects:
+        Stat|Damage_Dex: 1/2/3/4
+
+Damage_Arcane:
+    Effects:
+        Stat|Damage_Arcane: 1/2/3/4
+
+Damage_Elem:
+    Effects:
+        Stat|Damage_Elem: 1/1/2/3
+
+Damage_Minions:
+    Effects:
+        Stat|Damage_Minions: 1/2/3/4
+
+Crit_Chance:
+    Effects:
+        Stat|Crit_Chance: 3/4/6/9
+
+Cooldown:
+    Effects:
+        Stat|Cooldown: -3/-4/-5/-7
+
+Duration:
+    Effects:
+        Stat|Duration: 5/8/11/14
+
+Amount:
+    Effects:
+        Stat|Amount: 1/2/3/4
+
+Size:
+    Effects:
+        Stat|Size: 5/8/12/16
+
+Range:
+    Effects:
+        Stat|Range: 7/13/16/20
+
+Speed:
+    Effects:
+        Stat|Speed: 3/6/9/12
+
+Luck:
+    Effects:
+        Stat|Luck: 5/10/15/20
+
+Harvest:
+    Effects:
+        Stat|Harvest: 2/3/4/5
+
+XP_Gain:
+    Effects:
+        Stat|XP_Gain: 5/8/10/12
