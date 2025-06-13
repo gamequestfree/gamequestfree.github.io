@@ -1,0 +1,6 @@
+{
+	"abis": { "first": ["Abi_Move"], "last": [] },
+	"chara_noobs": { "first": ["Chara_Noob", "Chara_Elite", "Chara_Hero", "Chara_HeroMain"], "last": [] },
+	"characters": { "first": ["Chara_Player"], "last": [] },
+	"weps_Full": { "first": ["Chara_Doppel"], "last": [] }
+}

@@ -1,0 +1,190 @@
+_Rules:
+    Prefix: U_Chara_
+    ItemType: Playable
+    UnlockPrefix: [U_, U_Chara_]
+
+_Default:
+    CharaClass: Player
+    Img_AnimObject: "Play_[name]"
+
+    #Tests:
+    Effects:
+
+        #DamageBonus_PercentStat|HP_Max: 100
+
+        #Modif_Stat|Damage_Minions: 100
+        #Scaled|1|Luck|1|Damage_Minions: null
+        #Scaled|1|Damage_Minions|1|Luck: null
+        #Scaled|1|Luck|1|Damage_Minions: null
+
+        #Equip_Limit|Only|Minion/Melee: 0
+
+        #Equip_Limit|Only|Minion/Melee: 0
+
+        #Equip_Limit|Max|Melee: 0
+        #Equip_Limit|TierMin|Sbire: 2
+    Start_ATK:
+        - Wep_Bow
+        - ATK_Laser_Eye
+        - Skill_Jump
+        - Wep_Minion_Spider
+        - Wep_Plant_Tomato
+        - Trap_Ballista
+
+Overboy:
+    Unlocks:
+    Effects:
+        On_Wave|3|End:
+            OverboyChoose: 4
+        On_Wave|8|End:
+            OverboyChoose: 4
+
+Skull:
+    Unlocks:
+        0: Spider
+    Effects:
+        Tags_Wanted_ATK: [Skill]
+        Stat|HP_Max: 5
+        Stat|Life_Steal: 2
+        #Type_Mod|Trap|Damage: 100
+    HideEffects: [0]
+    Start_ATK:
+        #- Wep_Void_Hammer
+        - Skill_Impact
+        - ATK_Laser_Eye
+        - Wep_Dagger_Elec
+        - Wep_Minion_Bonecrusher
+        - Wep_Plant_Tomato
+        - Trap_Ballista
+        - Wep_zFiller_01
+
+Summoner:
+    Unlocks:
+        0: Potion
+    Effects:
+        Tags_Wanted_ATK: [Minion, Kickable]
+        Stat|Damage_Minions: 4
+        Scaled|1|Damage_Minions|1|Damage_Strength: null
+
+    HideEffects: [0]
+    Start_ATK:
+        - Wep_Minion_Bonecrusher
+        - Wep_Minion_Spider
+        - Wep_Spikeball
+        - Wep_zFiller_01
+
+Adept:
+    Unlocks:
+        0: Bigfoot
+    Effects:
+        Stat|Room_Size: -10
+        On_Wave_Start:
+            Create_Circle: 1
+        While_Circle_Inside:
+            Stat|Cooldown: -50
+            Stat|Dodge: 10
+            Stat|Life_Steal: 3
+            Stat|Knockback: -2
+
+    Start_ATK:
+        - Wep_Bow
+        - Wep_Gun_Oblivion
+        - Wep_Wand
+        - Wep_Watercan
+        - Wep_zFiller_01
+        - Wep_zFiller_02
+
+Spider:
+    Unlocks:
+        0: Book
+        #1: _____
+        #"5|Hell": _____
+    Effects:
+        Init_ATK_Slot: 8
+    Start_ATK:
+        - Wep_Minion_Spider
+        - Wep_Shovel
+        - Wep_zFiller_01
+        - Wep_zFiller_02
+
+Potion:
+    Unlocks:
+        0: Thirsty
+    Effects:
+        Stat|DropChance_Potion: 80
+        Stat|Potion_Heal: 3
+        On_Potion:
+            During|2:
+                Stat|Speed: 25
+                Stat|Damage: 25
+        Modif_Stat|HP_Max: -25
+        # Every_Seconds|2:
+        #     Spawn_Potion_Random: null
+    Start_ATK:
+        - Wep_Fist
+        - Wep_Shuriken
+        - Wep_Shovel
+        - Wep_Plant_Tomato
+        - Wep_zFiller_01
+        - Wep_zFiller_02
+
+Book:
+    Unlocks:
+        0: Palentorb
+    Effects:
+        Stat|Damage_Arcane: 5
+        Stat|XP_Gain: 20
+        Stat|Armor: -10
+        On_LevelUp:
+            Stat|Speed: 1
+        #Flying: true
+
+    Start_ATK:
+        - Wep_Wand_Skull
+        - Skill_Decoy
+        - Wep_Totem
+        - Wep_zFiller_01
+        - Wep_zFiller_02
+
+Bigfoot:
+    Unlocks:
+        0: Skull Collection
+    Effects:
+        Type_Mod|Kickable|Damage: 25
+        Stat|Speed: 25
+        On_Kick:
+            During|2:
+                Stat|Speed: 25
+                Stat|Armor: 20
+    Start_ATK:
+        - Wep_Kick_Chain
+        - Wep_Skullball
+        - Wep_Spikeball
+        - Skill_Ball
+        - Wep_zFiller_01
+        - Wep_zFiller_02
+
+Fire Imp:
+    LockedBy: Invisible
+    Unlocks:
+        #0: Cheater
+    Effects:
+        #Stat|Damage_Elem: 4
+        Type_Mod|Fire|Damage: 25
+        Type_Mod|Ice|Damage: -50
+        Type_Mod|Water|Damage: -50
+
+Blue Griffin:
+    LockedBy: Invisible
+    SecretDescription: true
+    Unlocks:
+    Effects:
+        Stat|HP_Max: 1
+
+????:
+    Img: random_icon_alt.png
+    LockedBy: Invisible
+    SecretDescription: true
+    Unlocks:
+    Effects:
+        Stat|HP_Max: 1

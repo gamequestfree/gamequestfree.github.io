@@ -1,0 +1,584 @@
+{
+  "Title": [
+    {
+      "AnimObject": "Play_Skull",
+      "Pos": [
+        -27.845316406209463,
+        -20.44273987661117
+      ],
+      "Width": 28.867448607276142,
+      "Height": 33.97840672135126,
+      "Angle": 0,
+      "Anim": [
+        "Play_Skull/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Potion",
+      "Pos": [
+        -28.169442550853603,
+        7.2963267749075555
+      ],
+      "Width": 21.078854943689702,
+      "Height": 25.589556413121237,
+      "Angle": 0,
+      "Anim": [
+        "Play_Potion/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Spider_FullBody",
+      "Pos": [
+        -9.164296849164941,
+        57.07384698242447
+      ],
+      "Width": 29.651889266557234,
+      "Height": 26.43452884760528,
+      "Angle": 0,
+      "Anim": [
+        "Play_Spider_FullBody/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Overboy_Big",
+      "Pos": [
+        2.795103186168717,
+        -24.3082273291177
+      ],
+      "Width": 34.533262444763565,
+      "Height": 46.683854786439625,
+      "Angle": 0,
+      "Anim": [
+        "Play_Overboy_Big/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Demoness",
+      "Pos": [
+        49.35448420302407,
+        -8.412387343973677
+      ],
+      "Width": 23.31133503937013,
+      "Height": 27.361566996017448,
+      "Angle": 0,
+      "Anim": [
+        "Play_Demoness/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Naga",
+      "Pos": [
+        -45.42525863579294,
+        -4.911072768827495
+      ],
+      "Width": 28.3,
+      "Height": 37,
+      "Angle": 0,
+      "Anim": [
+        "Play_Naga/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Worm",
+      "Pos": [
+        17.611770873180774,
+        30.44959777921173
+      ],
+      "Width": 39.6,
+      "Height": 30,
+      "Angle": 0,
+      "Anim": [
+        "Play_Worm/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_King_Rabbit",
+      "Pos": [
+        45.581596247301604,
+        17.29379468878159
+      ],
+      "Width": 24.181988492878283,
+      "Height": 34.94137544345408,
+      "Angle": 0,
+      "Anim": [
+        "Play_King_Rabbit/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Barbarius",
+      "Pos": [
+        -37.96412846640652,
+        50.73968673123352
+      ],
+      "Width": 26.900000000000002,
+      "Height": 29.700000000000003,
+      "Angle": 0,
+      "Anim": [
+        "Play_Barbarius/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Succubus",
+      "Pos": [
+        -47.89038740056,
+        23.101437428164246
+      ],
+      "Width": -21.576368,
+      "Height": 31.392643,
+      "Angle": 0,
+      "Anim": [
+        "Play_Succubus/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Vilethorn",
+      "Pos": [
+        -15.429522866307252,
+        34.36606893749186
+      ],
+      "Width": 32.9,
+      "Height": 38.1,
+      "Angle": 0,
+      "Anim": [
+        "Play_Vilethorn/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Book",
+      "Pos": [
+        32.211125940721615,
+        -25.398100283675817
+      ],
+      "Width": 22.41557104086906,
+      "Height": 19.390156544555445,
+      "Angle": 0,
+      "Anim": [
+        "Play_Book/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Adept",
+      "Pos": [
+        20.36698422314481,
+        1.0757883201752065
+      ],
+      "Width": 18.98230752651694,
+      "Height": 27.518729846134022,
+      "Angle": 0,
+      "Anim": [
+        "Play_Adept/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Summoner",
+      "Pos": [
+        -6.208625786376274,
+        1.0144664593597952
+      ],
+      "Width": 19.96084135849966,
+      "Height": 25.70429099467173,
+      "Angle": 0,
+      "Anim": [
+        "Play_Summoner/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Bigfoot",
+      "Pos": [
+        51.15594342475799,
+        48.35213738297443
+      ],
+      "Width": 31.868524971893113,
+      "Height": 36.46926273191993,
+      "Angle": 0,
+      "Anim": [
+        "Play_Bigfoot/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Play_Fly",
+      "Pos": [
+        19.33377456335893,
+        55.44374705814516
+      ],
+      "Width": -23.7,
+      "Height": 22.200000000000003,
+      "Angle": 0,
+      "Anim": [
+        "Play_Fly/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Buffer",
+      "Pos": [
+        -66.77004315708626,
+        118.61964299916372
+      ],
+      "Width": 25.76749922342053,
+      "Height": 27.16663945274653,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Buffer/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Dasher",
+      "Pos": [
+        40.45254061096426,
+        119.16216344641424
+      ],
+      "Width": -21.40049971855056,
+      "Height": 20.20494099717583,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Dasher/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Mage",
+      "Pos": [
+        66.36527156019957,
+        120.80053034614104
+      ],
+      "Width": -18.20748165116279,
+      "Height": 24.446408777142857,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Mage/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Elite_Wizard_Badass",
+      "Pos": [
+        -83.93326174444357,
+        111.78595770570837
+      ],
+      "Width": 26.97006935523295,
+      "Height": 26.06242279039337,
+      "Angle": 0,
+      "Anim": [
+        "Elite_Wizard_Badass/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Frog",
+      "Pos": [
+        -34.590848501735366,
+        119.27938001203808
+      ],
+      "Width": 24.166625253705266,
+      "Height": 24.30795054758658,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Frog/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Heart",
+      "Pos": [
+        4.34539894057292,
+        103.1455712977353
+      ],
+      "Width": 31.13988537515589,
+      "Height": 27.391565839257503,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Heart/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Bomb",
+      "Pos": [
+        27.66868900982655,
+        108.69769956974335
+      ],
+      "Width": -20.268310394736844,
+      "Height": 28.256409556332528,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Bomb/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Rogue",
+      "Pos": [
+        80.5021282792751,
+        108.30549446078282
+      ],
+      "Width": -23.526151307864676,
+      "Height": 22.142260385038398,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Rogue/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Chevalier",
+      "Pos": [
+        -50.42555139548645,
+        111.88980372824756
+      ],
+      "Width": 22.931326196289394,
+      "Height": 25.66418847320335,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Chevalier/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Couette",
+      "Pos": [
+        13.231037398821911,
+        120.26099776900645
+      ],
+      "Width": -20.226499024390247,
+      "Height": 20.45123741818182,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Couette/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_2",
+      "Pos": [
+        -17.731911743355795,
+        110.48776045001335
+      ],
+      "Width": 23.94703680531324,
+      "Height": 27.35234937854586,
+      "Angle": 0,
+      "Anim": [
+        "Noob_2/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_1",
+      "Pos": [
+        52.80544720975644,
+        108.41428194830405
+      ],
+      "Width": -14.446173813035298,
+      "Height": 22.242521150779794,
+      "Angle": 0,
+      "Anim": [
+        "Noob_1/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "AnimObject": "Noob_Druid",
+      "Pos": [
+        92.73293190223933,
+        118.18578865268364
+      ],
+      "Width": -21.330825931034482,
+      "Height": 27.88561107111889,
+      "Angle": 0,
+      "Anim": [
+        "Noob_Druid/Default",
+        0
+      ],
+      "Color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}
