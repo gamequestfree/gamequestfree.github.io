@@ -16,10 +16,10 @@ export class Community_Manager {
 
 	async Load_CommuData() {
 		try {
-			// Generate a random query parameter to bypass caching
+		 
 			const cacheBuster = Utils.generateUID()
-			//const url = `https://raw.githubusercontent.com/OverboyDev/noobs-utils/main/community.yml?${cacheBuster}`
-			const url = "https://raw.githubusercontent.com/OverboyDev/noobs-utils/main/community.yml"
+			 
+			const url = "raw/OverboyDev/noobs-utils/main/community.yml"
 
 			console.log("Loading community data from URL:", url)
 

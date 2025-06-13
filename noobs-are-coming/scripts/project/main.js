@@ -60,16 +60,7 @@ import { Main_Manager } from "./managers/Main_Manager.js"
 //TODO runtime.sortZOrder(iterable, callback)
 
 runOnStartup(async (runtime) => {
-	// Code to run on the loading screen.
-	// Note layouts, objects etc. are not yet available.
-
-	//* ERUDA
-	/*
-	const script = document.createElement("script")
-	script.src = "https://cdn.jsdelivr.net/npm/eruda"
-	script.onload = () => eruda.init()
-	document.body.appendChild(script)*/
-
+	
 	console.error("runtime", runtime)
 	globalThis.runtime = runtime
 
