@@ -290,29 +290,7 @@ export class Data_Manager {
 			"inventory/Item_Effect.js",
 		]
 
-		if (this.runtime.platforms.Export === "html") {
-			console.error("LoadData - Importing Modules", modules)
-		}
-
-		for (let pathShort of modules) {
-			let path = this.GetUrl(pathShort)
-			if (path === undefined || path === null) {
-				console.error("LoadData - Importing - path is undefined or null", pathShort)
-				continue
-			}
-			path = this.runtime.baseUrl + path
-			if (this.runtime.platforms.Export === "html") {
-				console.error("LoadData - Importing", path)
-			}
-
-			await import(path)
-		}
-
-		if (this.runtime.sineManager) {
-			console.error("sineManager.Init_Sine_ObjectTypes")
-			this.runtime.sineManager.Init_Sine_ObjectTypes()
-		}
-
+		
 		await this.runtime.audio.LoadAllAudioFiles()
 
 		const statsDataRaw = await this.DataFile_UrlToObject("Game/Stats.yml")
