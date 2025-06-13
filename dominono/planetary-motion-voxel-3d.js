@@ -1594,7 +1594,7 @@ function __wbg_get_imports() {
         return ret;
     };
     imports.wbg.__wbg_resume_35efdc4ffe13bf18 = function() { return handleError(function (arg0) {
-        const ret = arg0.resume();
+
         return ret;
     }, arguments) };
     imports.wbg.__wbg_revokeObjectURL_27267efebeb457c7 = function() { return handleError(function (arg0, arg1) {
