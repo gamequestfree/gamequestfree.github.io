@@ -29,7 +29,7 @@ export class Platform_Newgrounds {
 		this.init = false
 
 		const ngScript = document.createElement("script")
-		ngScript.src = "https://cdn.jsdelivr.net/gh/PsychoGoldfishNG/NewgroundsIO-JS@8c72515/dist/NewgroundsIO.min.js"
+		ngScript.src = "cdn/gh/PsychoGoldfishNG/NewgroundsIO-JS@8c72515/dist/NewgroundsIO.min.js"
 		ngScript.onload = () => {
 			NGIO.init(appID, appKey, options)
 			console.log("NewgroundsIO initialized", NGIO)

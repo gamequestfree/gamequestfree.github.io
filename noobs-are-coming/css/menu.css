@@ -60,6 +60,9 @@ q .tooltip .settingSlider,
 	border-radius: calc(var(--px) * 2);
 }
 
+#title_Column_Right {
+	display: none;
+}
 /*
 .menu input[type="range"] {
 	width: 150px;
